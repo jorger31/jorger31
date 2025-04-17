@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 -  I’m currently working on CompTIA A+
 - 🌱 I’m currently learning computer fundementals
 - 🤔 I’m looking for help with pursuing my first IT job
-- 📫 How to reach me: jorgereyes0531@gmail.com
+- 📫 How to reach me:
 
--->
