@@ -1,16 +1,21 @@
-## Hi! I'm Jorge Reyes 👋
+## Hi, I'm Jorge! 👋
 
-<!--
-**jorger31/jorger31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Projects:</h2>
+
+- Active Directory Homelab
+- Calculator Powered by Python
+
+<h2>Certifications:</h2>
+
+- Google Cybersecurity Professional Certification
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on CompTIA A+
+- 🌱 I’m currently learning computer fundementals
+- 🤔 I’m looking for help with pursuing my first IT job
+- 📫 How to reach me: jorgereyes0531@gmail.com
+
 -->
