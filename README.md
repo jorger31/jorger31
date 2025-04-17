@@ -7,6 +7,7 @@
 
 <h2>Certifications:</h2>
 
+- CompTIA A+ (Expected 05/25)
 - Google Cybersecurity Professional Certification
 
 
