@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-- Active Directory Homelab
+- [Active Directory Homelab](https://github.com/jorger31/Active-Directory-VM)
 - [Calculator Powered by Python](https://github.com/jorger31/Python-Calculator)
 
 <h2>Certifications:</h2>
