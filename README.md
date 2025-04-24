@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory          | <a href="https://github.com/jorger31/Active-Directory-VM">Active Directory VM</a>|
-| Beginner Python Knowledge | <a href="https://github.com/jorger31/Python-Calculator" >Python Calculator</a>|
+| Beginner Python Knowledge | <a href="https://github.com/jorger31/Python-Calculator" >Basic Python Calculator</a>|
 
 
 ## Tools
@@ -52,5 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Active Directory Home Lab
-- Python Calculator 
+<a href="https://github.com/jorger31/Active-Directory-VM">Active Directory VM</a>
+
+<a href="https://github.com/jorger31/Python-Calculator" >Basic Python Calculator</a>
+
