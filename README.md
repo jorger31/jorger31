@@ -19,8 +19,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Beginner Python Knowledge | <a href="https://github.com/jorger31/Python-Calculator" >Basic Python Calculator</a>|
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### LANGUAGES
 <div>
