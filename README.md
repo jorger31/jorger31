@@ -52,5 +52,5 @@ My journey in information technology has led me to develop a passion for cyberse
 ## Projects
 <a href="https://github.com/jorger31/Active-Directory-VM">Active Directory VM</a>
 
-<a href="https://github.com/jorger31/Python-Calculator" >Basic Python Calculator</a>
+
 
