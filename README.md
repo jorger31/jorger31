@@ -9,7 +9,7 @@ I am currently a student enrolled at a community college in pursuit of computer 
 ## Objective
 My current objective is to take in as much knowledge so that I can better prepare myself for the IT industry.
 
-My journey in information technology has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join a Help Desk Support position to gain fundamental knowledge.
+My journey in information technology has led me to develop a strong focus towards systems management and I am now eager to transition into this field. 
 
 ## Skills
 
