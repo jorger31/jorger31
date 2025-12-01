@@ -3,7 +3,7 @@
 
 ## Description
 
-I am currently a student enrolled at Polk State College in pursuit of finishing my AA to then transfer to Florida Polytechnical College to obtain a Computer Science degree. 
+I am currently a student enrolled at a community college in pursuit of computer science degree.
 
 
 ## Objective
