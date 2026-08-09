@@ -58,7 +58,7 @@ I am an IT professional with a strong foundation in networking, cybersecurity, a
 ## 📜 Certifications
 
 <div>
-<a href="[https://www.comptia.org/](https://www.credly.com/badges/cfe14753-f564-44e1-822f-2e728549dc71/public_url)" target="_blank">
+<a href="https://www.credly.com/badges/cfe14753-f564-44e1-822f-2e728549dc71/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-CompTIA%20A+-EA2B2C?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
 </a>
 <a href="[https://www.comptia.org/](https://cp.certmetrics.com/comptia/en/public/verify/credential/b0c96d499faf46b7be17c5134b101a8c)" target="_blank">
