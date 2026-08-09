@@ -61,7 +61,7 @@ I am an IT professional with a strong foundation in networking, cybersecurity, a
 <a href="https://www.comptia.org/" target="_blank">
   <img src="https://img.shields.io/badge/-CompTIA%20A+-EA2B2C?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
 </a>
-<a href="https://www.comptia.org/" target="_blank">
+<a href="[https://www.comptia.org/](https://cp.certmetrics.com/comptia/en/public/verify/credential/b0c96d499faf46b7be17c5134b101a8c)" target="_blank">
   <img src="https://img.shields.io/badge/-CompTIA%20Network+-EA2B2C?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Network+" />
 </a>
 <a href="https://coursera.org/verify/professional-cert/6AH8WN5G5ROX" target="_blank">
