@@ -2,13 +2,10 @@
 
 🎓 IT & Cybersecurity student at Polk State College pursuing an Associate in Science
 🔐 CompTIA A+ | CompTIA Network+ | Google Cybersecurity Certificate
-🌎 Based in Lakeland, FL
+🌎 Based in Florida
 🚀 Actively building hands-on skills through home lab projects and self-directed learning
 💼 Seeking entry-level roles in Cybersecurity, Network Engineering, or IT Infrastructure
 
-<a href="https://linkedin.com/in/reyes-jorge">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 ---
 
@@ -26,7 +23,7 @@ I am an IT professional with a strong foundation in networking, cybersecurity, a
 | **Security** | pfSense, Snort IPS, Splunk SIEM, Intrusion Detection, Log Analysis, Adversary Emulation |
 | **Operating Systems** | Windows 10/11, Windows Server, Linux (Ubuntu Server) |
 | **Virtualization** | Oracle VirtualBox, pfSense, Multi-VM Lab Design |
-| **Active Directory** | Domain Services, User & Group Management, Group Policy, Domain Authentication |
+| **Active Directory** | Domain Services, User & Group Management, Group Policy |
 | **Tools** | Splunk, Sysmon, Atomic Red Team, Nmap, Kali Linux, Apache |
 
 ---
