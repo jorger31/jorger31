@@ -121,12 +121,4 @@ I am an IT professional with a strong foundation in networking, cybersecurity, a
 
 ---
 
-## 📊 GitHub Stats
-
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorger31&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorger31&layout=compact&theme=dark&hide_border=true)
-
----
-
 *Always learning. Always building.* 🔐
