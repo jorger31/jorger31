@@ -118,15 +118,6 @@ I am an IT professional with a strong foundation in networking, cybersecurity, a
 </a>
 </div>
 
-### Languages
-<div>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge" />
-</a>
-</div>
 
 ---
 
