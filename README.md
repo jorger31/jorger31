@@ -111,9 +111,6 @@ I am an IT professional with a strong foundation in networking, cybersecurity, a
 <a href="https://ubuntu.com/server" target="_blank">
   <img src="https://img.shields.io/badge/-UFW-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="UFW Firewall Badge" />
 </a>
-<a href="https://www.netfilter.org/projects/iptables/" target="_blank">
-  <img src="https://img.shields.io/badge/-iptables-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="iptables Badge" />
-</a>
 </div>
 
 ### SIEM & Monitoring
