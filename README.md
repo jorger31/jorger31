@@ -55,6 +55,17 @@ I am an IT professional with a strong foundation in networking, cybersecurity, a
 
 ---
 
+### 🔒 [Self-Hosted WireGuard VPN](https://github.com/jorger31/Self-Hosted-WireGuard-VPN)
+> Built a personal VPN server from scratch on a cloud VPS using WireGuard, with multi-device client support
+
+- Deployed and hardened a Ubuntu Linux VPS (Vultr) with SSH key-based authentication and disabled root/password login
+- Configured WireGuard with IP forwarding, NAT/iptables masquerading, and UFW firewall rules
+- Generated per-device keypairs and configs for multiple simultaneous clients (desktop, mobile) with QR-code provisioning
+- Documented the full setup, troubleshooting process, and security practices in a public repo
+
+**Tools:** WireGuard · Ubuntu Server · Vultr · UFW · iptables
+
+
 ## 📜 Certifications
 
 <div>
